@@ -1,0 +1,11 @@
+framework module Bebas {
+  umbrella header "Bebas.h"
+
+  export *
+  module * { export * }
+}
+
+module Bebas.Swift {
+    header "Bebas-Swift.h"
+    requires objc
+}
