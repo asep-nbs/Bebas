@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Bebas-Swift.h</key>
 		<data>
-		2Ala/ksYWmCnBuhimkKbv19CvhI=
+		13HLs9dVGER0FPEYVpd0W9B2pUo=
 		</data>
 		<key>Headers/Bebas.h</key>
 		<data>
@@ -14,55 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uJ3AJcOYrGh5TGlEFA1JblPSG78=
-		</data>
-		<key>Modules/Bebas.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		u6NR/m/K0A2XvjEe2Z/A8UMF7Ms=
-		</data>
-		<key>Modules/Bebas.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<data>
-		u6NR/m/K0A2XvjEe2Z/A8UMF7Ms=
+		5fjA0ZDH1vemMbVWFekZt54OtFY=
 		</data>
 		<key>Modules/Bebas.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		aJg+dM1I87YBDUQrtrRoASHgj1k=
+		/jq+e+ehwcQAPAzYegM5A1Y2Sfs=
 		</data>
 		<key>Modules/Bebas.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		aJg+dM1I87YBDUQrtrRoASHgj1k=
-		</data>
-		<key>Modules/Bebas.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<data>
-		JBqVAOGMBBfAU2nNQ4IBBbItVpQ=
-		</data>
-		<key>Modules/Bebas.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<data>
-		bd3XWW3zMu55T4gPBV8h7LvAcTA=
-		</data>
-		<key>Modules/Bebas.swiftmodule/i386.swiftdoc</key>
-		<data>
-		JBqVAOGMBBfAU2nNQ4IBBbItVpQ=
-		</data>
-		<key>Modules/Bebas.swiftmodule/i386.swiftmodule</key>
-		<data>
-		bd3XWW3zMu55T4gPBV8h7LvAcTA=
+		/jq+e+ehwcQAPAzYegM5A1Y2Sfs=
 		</data>
 		<key>Modules/Bebas.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jw+A+0T3u5caNXObnLmkw5Afe2U=
+		dsX3yranyInsxOStTWyIhtEvb68=
 		</data>
 		<key>Modules/Bebas.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BPyZVL9WxhoDmFTjyNUroQgIIwY=
+		1Q+goopQG7jcjER6ocKY0U4eKKM=
 		</data>
 		<key>Modules/Bebas.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		jw+A+0T3u5caNXObnLmkw5Afe2U=
+		dsX3yranyInsxOStTWyIhtEvb68=
 		</data>
 		<key>Modules/Bebas.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		BPyZVL9WxhoDmFTjyNUroQgIIwY=
+		1Q+goopQG7jcjER6ocKY0U4eKKM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2Ala/ksYWmCnBuhimkKbv19CvhI=
+			13HLs9dVGER0FPEYVpd0W9B2pUo=
 			</data>
 			<key>hash2</key>
 			<data>
-			JRsrYRj/+IDJPSSDDosRoq7wBxzU8NxoXHzabzvYcDE=
+			v1RhMeMbyE+Ns7pUyM8dEcDKjnqkHHyasuUEm6k3bTg=
 			</data>
 		</dict>
 		<key>Headers/Bebas.h</key>
@@ -93,136 +69,70 @@
 			oBVIlYRS4bIaYvLFrfi68r5LHxeLfdmLBjmPUB1/LTE=
 			</data>
 		</dict>
-		<key>Modules/Bebas.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			u6NR/m/K0A2XvjEe2Z/A8UMF7Ms=
-			</data>
-			<key>hash2</key>
-			<data>
-			UI0k2b/2aWRDnqBW09DEmxkKjrfzYsJpXsQCjIFYt3I=
-			</data>
-		</dict>
-		<key>Modules/Bebas.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			u6NR/m/K0A2XvjEe2Z/A8UMF7Ms=
-			</data>
-			<key>hash2</key>
-			<data>
-			UI0k2b/2aWRDnqBW09DEmxkKjrfzYsJpXsQCjIFYt3I=
-			</data>
-		</dict>
 		<key>Modules/Bebas.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aJg+dM1I87YBDUQrtrRoASHgj1k=
+			/jq+e+ehwcQAPAzYegM5A1Y2Sfs=
 			</data>
 			<key>hash2</key>
 			<data>
-			VaUDVvb79WSamx/9QK9tDJy2jafQDVL0K6S0THiTqaM=
+			Wjs1KBvRRkg/NuYyMnOA3Trddl0kpySAvqNipRYJkwc=
 			</data>
 		</dict>
 		<key>Modules/Bebas.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aJg+dM1I87YBDUQrtrRoASHgj1k=
+			/jq+e+ehwcQAPAzYegM5A1Y2Sfs=
 			</data>
 			<key>hash2</key>
 			<data>
-			VaUDVvb79WSamx/9QK9tDJy2jafQDVL0K6S0THiTqaM=
-			</data>
-		</dict>
-		<key>Modules/Bebas.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JBqVAOGMBBfAU2nNQ4IBBbItVpQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			rcAcYHySwD+l78R+M0fUYSt1NNilplH4nntYWo50pKc=
-			</data>
-		</dict>
-		<key>Modules/Bebas.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bd3XWW3zMu55T4gPBV8h7LvAcTA=
-			</data>
-			<key>hash2</key>
-			<data>
-			YT1tpkuqGBxXl5e0zeseIuVxBLfS6MbAx/iyHhcJiGE=
-			</data>
-		</dict>
-		<key>Modules/Bebas.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JBqVAOGMBBfAU2nNQ4IBBbItVpQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			rcAcYHySwD+l78R+M0fUYSt1NNilplH4nntYWo50pKc=
-			</data>
-		</dict>
-		<key>Modules/Bebas.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bd3XWW3zMu55T4gPBV8h7LvAcTA=
-			</data>
-			<key>hash2</key>
-			<data>
-			YT1tpkuqGBxXl5e0zeseIuVxBLfS6MbAx/iyHhcJiGE=
+			Wjs1KBvRRkg/NuYyMnOA3Trddl0kpySAvqNipRYJkwc=
 			</data>
 		</dict>
 		<key>Modules/Bebas.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jw+A+0T3u5caNXObnLmkw5Afe2U=
+			dsX3yranyInsxOStTWyIhtEvb68=
 			</data>
 			<key>hash2</key>
 			<data>
-			JIfAUJQxszMFcGMVoNhZPxjIlrA9oR5nX3lGuhETio4=
+			SUSSPFAmAQZMGKY0h7CXFRpK8QmiKRSVWG9kb4XJWn4=
 			</data>
 		</dict>
 		<key>Modules/Bebas.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BPyZVL9WxhoDmFTjyNUroQgIIwY=
+			1Q+goopQG7jcjER6ocKY0U4eKKM=
 			</data>
 			<key>hash2</key>
 			<data>
-			wU14X+T+3mFoRQhkYLeMJWSmg2ripYfgfWP4akdjrtE=
+			MJaXlCeEbmvPW6Zx/3/SZVspBzljX6lDNqvvP0o6hYg=
 			</data>
 		</dict>
 		<key>Modules/Bebas.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jw+A+0T3u5caNXObnLmkw5Afe2U=
+			dsX3yranyInsxOStTWyIhtEvb68=
 			</data>
 			<key>hash2</key>
 			<data>
-			JIfAUJQxszMFcGMVoNhZPxjIlrA9oR5nX3lGuhETio4=
+			SUSSPFAmAQZMGKY0h7CXFRpK8QmiKRSVWG9kb4XJWn4=
 			</data>
 		</dict>
 		<key>Modules/Bebas.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BPyZVL9WxhoDmFTjyNUroQgIIwY=
+			1Q+goopQG7jcjER6ocKY0U4eKKM=
 			</data>
 			<key>hash2</key>
 			<data>
-			wU14X+T+3mFoRQhkYLeMJWSmg2ripYfgfWP4akdjrtE=
+			MJaXlCeEbmvPW6Zx/3/SZVspBzljX6lDNqvvP0o6hYg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
